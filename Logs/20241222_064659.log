@@ -1,0 +1,72 @@
+2024-12-22 06.46.59; Inicio de Ejecución BotUpdateCanal
+2024-12-22 06:47:31; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-22 06:48:02; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-22 06:48:02; Procesando las Dams e ingresar a la web sunat
+2024-12-22 06:49:48; Dam 3768 aun no tiene CANAL
+2024-12-22 06:50:06; Dam 33713 aun no tiene CANAL
+2024-12-22 06:50:25; Dam 52846 aun no tiene CANAL
+2024-12-22 06:50:43; Dam 52379 aun no tiene CANAL
+2024-12-22 06:51:01; Dam 22955 aun no tiene CANAL
+2024-12-22 06:51:19; Dam 3329 aun no tiene CANAL
+2024-12-22 06:51:38; Dam 52970 aun no tiene CANAL
+2024-12-22 06:53:52; Dam 9129 aun no tiene CANAL
+2024-12-22 06:54:11; Dam 52374 aun no tiene CANAL
+2024-12-22 06:54:29; Dam 34459 aun no tiene CANAL
+2024-12-22 06:54:47; Dam 34726 aun no tiene CANAL
+2024-12-22 06:55:05; Dam 34725 aun no tiene CANAL
+2024-12-22 06:55:24; Dam 34456 aun no tiene CANAL
+2024-12-22 06:56:40; Dam 23115 aun no tiene CANAL
+2024-12-22 06:56:58; Dam 23113 aun no tiene CANAL
+2024-12-22 06:57:16; Dam 23111 aun no tiene CANAL
+2024-12-22 06:57:35; Dam 23100 aun no tiene CANAL
+2024-12-22 06:57:53; Dam 23104 aun no tiene CANAL
+2024-12-22 06:58:11; Dam 23106 aun no tiene CANAL
+2024-12-22 06:59:00; 22723 Ya esta registrado en la DB
+2024-12-22 07:00:15; Dam 52759 aun no tiene CANAL
+2024-12-22 07:01:14; 52773 Ya esta registrado en la DB
+2024-12-22 07:01:31; Dam 52457 aun no tiene CANAL
+2024-12-22 07:01:34; 52771 Ya esta registrado en la DB
+2024-12-22 07:01:51; Dam 22892 aun no tiene CANAL
+2024-12-22 07:02:50; 52085 Ya esta registrado en la DB
+2024-12-22 07:03:49; 52772 Ya esta registrado en la DB
+2024-12-22 07:04:06; Dam 51838 aun no tiene CANAL
+2024-12-22 07:04:24; Dam 22982 aun no tiene CANAL
+2024-12-22 07:04:25; 52308 Ya esta registrado en la DB
+2024-12-22 07:04:43; Dam 52778 aun no tiene CANAL
+2024-12-22 07:04:44; 52084 Ya esta registrado en la DB
+2024-12-22 07:10:41; Dam 52455 aun no tiene CANAL
+2024-12-22 07:11:41; 23184 Ya esta registrado en la DB
+2024-12-22 07:12:57; Dam 52440 aun no tiene CANAL
+2024-12-22 07:14:53; 52593 Ya esta registrado en la DB
+2024-12-22 07:17:07; Dam 23114 aun no tiene CANAL
+2024-12-22 07:17:09; 52393 Ya esta registrado en la DB
+2024-12-22 07:18:24; Dam 51281 aun no tiene CANAL
+2024-12-22 07:18:33; se cerro la pagina de SUNAT con éxito
+2024-12-22 07:19:08; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-22 07:19:50; No salió la alerta de guardar cambios del BK PER8379771A
+2024-12-22 07:20:39; No salió la alerta de guardar cambios del BK PER8380954A
+2024-12-22 07:21:28; No salió la alerta de guardar cambios del BK PER8382665A
+2024-12-22 07:22:18; No salió la alerta de guardar cambios del BK PER8384975A
+2024-12-22 07:23:07; No salió la alerta de guardar cambios del BK PER8384998A
+2024-12-22 07:24:12; No salió la alerta de guardar cambios del BK 248155421
+2024-12-22 07:25:24; No salió la alerta de guardar cambios del BK 61657930
+2024-12-22 07:26:37; No salió la alerta de guardar cambios del BK 63991261
+2024-12-22 07:27:49; No salió la alerta de guardar cambios del BK 248066610*
+2024-12-22 07:29:01; No salió la alerta de guardar cambios del BK 66991258
+2024-12-22 07:30:13; No salió la alerta de guardar cambios del BK 69324589
+2024-12-22 07:31:25; No salió la alerta de guardar cambios del BK 69991255
+2024-12-22 07:32:38; No salió la alerta de guardar cambios del BK PER8381452A
+2024-12-22 07:33:50; No salió la alerta de guardar cambios del BK 248156002
+2024-12-22 07:35:02; No salió la alerta de guardar cambios del BK 247697976
+2024-12-22 07:36:15; No salió la alerta de guardar cambios del BK 248066620*
+2024-12-22 07:37:27; No salió la alerta de guardar cambios del BK 248153372
+2024-12-22 07:38:39; No salió la alerta de guardar cambios del BK 248066657*
+2024-12-22 07:39:52; No salió la alerta de guardar cambios del BK LMM0500315
+2024-12-22 07:41:04; No salió la alerta de guardar cambios del BK LMM0500314
+2024-12-22 07:42:16; No salió la alerta de guardar cambios del BK 248219453
+2024-12-22 07:43:29; No salió la alerta de guardar cambios del BK PER8381611A
+2024-12-22 07:43:54; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-22 07:44:02; Se envió el correo con éxito
+2024-12-22 07:44:09;  Archivo REPORTE_RCE_ENVIADOS 22-11-2024 al 22-12-2024_20241222_0744.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-22 07:44:09; Fin del robot  BotUpdateCanal

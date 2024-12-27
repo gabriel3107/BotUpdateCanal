@@ -1,0 +1,626 @@
+<div id='content' xmlns="http://www.w3.org/1999/html">
+	<section id='widget-grid' class=''>
+		<div class='row' >
+			<article class='col-sm-12 col-md-12 col-lg-12'>
+				<div class="jarviswidget jarviswidget-color-blue" data-widget-editbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false" data-widget-fullscreenbutton="false">
+
+					<header>
+						<span class="widget-icon"> <i class="fa fa-book"></i> </span>
+						<h2><strong>BOOKING: <span class="font-md" id="booking_number"></span></strong></h2>
+						<div class="widget-toolbar" role="menu">
+							<a class='btn btn-danger' href="#/" type='button'>
+								<i class='fa fa-arrow-left'></i>&nbsp;&nbsp;&nbsp;&nbsp;
+								Atras
+							</a>
+						</div>
+
+					</header>
+
+					<div>
+
+						<div class="jarviswidget-editbox">
+
+						</div>
+
+						<div class="widget-body no-padding">
+							<div class='smart-form' >
+
+								<fieldset>
+									<div class='row'>
+										<section class='col col-3'>
+											<label class='label'>Number</label>
+											<label class='input'>
+												<input type='text' name='booking_number' placeholder='number' ng-model='booking.booking_number' readonly>
+											</label>
+										</section>
+										<section class='col col-6'>
+											<label class='label'>Cliente</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Cliente" ng-model="booking.clienteSeleccionado">
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>Linea</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Linea" ng-model="booking.lineaSeleccionado">
+											</label>
+										</section>
+									</div>
+									<div class="row">
+										<section class='col col-3'>
+											<label class='label'>Nave</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Nave" ng-model="booking.naveSeleccionado">
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>Viaje</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Viaje" ng-model="booking.viajeSeleccionado">
+											</label>
+										</section>
+										<section class='col col-6'>
+											<label class='label'>Producto</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Producto" ng-model="booking.productoSeleccionado">
+											</label>
+										</section>
+									</div>
+									<div class="row">
+										<section class='col col-6'>
+											<label class='label'>Operador</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Operador" ng-model="booking.operadorSeleccionado">
+											</label>
+										</section>
+
+										<section class='col col-3'>
+											<label class='label'>ETA</label>
+											<label class='input'>
+												<input name="booking_eta" ng-model="booking.booking_eta"
+													   maxlength="10" type="text" readonly
+													   placeholder="Fecha ETA"
+													   datepicker-popup="dd/MM/yyyy" autocomplete="off"
+													   class="form-control input-sm date-picker" required/>
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>N° MFTO</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="N° MFTO" ng-model="booking.viaje.viaje_numeromanifiesto">
+											</label>
+										</section>
+									</div>
+									<div class='row'>
+
+
+										<section class='col col-3'>
+											<label class='label'>Puerto de salida</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Puerto de salida" ng-model="booking.booking_puertosalida">
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>Destino</label>
+											<label class='input'>
+												<input type='text' name='booking_destino' placeholder='destino' ng-model='booking.booking_destino' readonly>
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>Consignatario</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Consignatario" ng-model="booking.booking_consignatario">
+											</label>
+										</section>
+										<section class='col col-3'>
+											<label class='label'>Tipo Contenedor</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Buscar Tipo Contenedor" ng-model="booking.booking_tipocontenedor">
+											</label>
+										</section>
+									</div>
+									<div class='row'>
+
+										<section class='col col-3'>
+											<label class='label'>Tipo de Embarque</label>
+											<label class='input'>
+												<input type="text" class="form-control" readonly
+													   placeholder="Tipo de Embarque" ng-model="booking.booking_tipoembarquetext">
+											</label>
+										</section>
+										<section class='col col-2'>
+											<label class='label'>Cantidad Contenedores</label>
+											<label class='input'>
+												<input type='number' name='booking_numerocontenedores' placeholder='Numero Contenedores' ng-model='booking.booking_numerocontenedores' readonly>
+											</label>
+										</section>
+										<section class='col col-2'>
+											<label class='label'>Equipament Size</label>
+											<label class='input'>
+												<input type='text' name='booking_numerocontenedores' placeholder='Equipament Size' ng-model='booking.booking_equipamentsize' readonly>
+											</label>
+										</section>
+										<section class='col col-3' >
+											<div class="input-group smart-form  padding-top-25">
+												<label class="checkbox state-primary ">
+													<input type="checkbox"
+														   ng-model="booking.booking_isconsolidada" disabled
+														   ng-true-value="1" ng-false-value="0"><i></i>
+													<strong class="font-lg">Carga Consolidada</strong>
+												</label>
+											</div>
+										</section>
+
+									</div>
+									<div class="row">
+										<section class='col col-3'>
+											<div class="input-group col-sm-12">
+												<button disabled class="btn btn-info btn-block btn-sm">
+													<strong>Fichero Booking</strong>
+												</button>
+												<span class="input-group-btn">
+													<a href="{{booking.booking_ficherobooking}}" target="_blank" class="btn btn-success btn-sm"
+													   ng-if="booking.booking_ficherobooking" type="button">
+														<i class="fa fa-download"></i>
+													</a>
+												</span>
+											</div>
+										</section>
+										<section class='col col-3'>
+											<div class="input-group col-sm-12">
+												<button disabled class="btn btn-info btn-block btn-sm">
+													<strong>Fichero Temperatura</strong>
+												</button>
+												<span class="input-group-btn">
+													<a href="{{booking.booking_ficherotemperatura}}" target="_blank" class="btn btn-success btn-sm"
+													   ng-if="booking.booking_ficherotemperatura" type="button">
+														<i class="fa fa-download"></i>
+													</a>
+												</span>
+											</div>
+										</section>
+										<section class='col col-3'>
+											<div class="input-group col-sm-12">
+												<button disabled class="btn btn-info btn-block btn-sm">
+													<strong>Fichero de Instrucciones</strong>
+												</button>
+												<span class="input-group-btn">
+														<a href="{{booking.booking_ficheroinstrucciones}}" target="_blank" class="btn btn-success btn-sm"
+														   ng-if="booking.booking_ficheroinstrucciones" type="button">
+															<i class="fa fa-download"></i>
+														</a>
+													</span>
+											</div>
+										</section>
+									</div>
+
+								</fieldset>
+								<footer>
+									<a class='btn btn-primary pull-left' href="" ng-click="adjuntarReporteDatosAsignacion(booking)">
+										<i class="fa fa-mail-forward"></i> Envio Correo Asignación Canal
+									</a>
+									<a class='btn btn-warning pull-left' href="" ng-click="enviarReporteNumeracionBooking()">
+										<i class="fa fa-mail-forward"></i> Envio Reporte Numeración
+									</a>
+
+									<a class='btn btn-success' href="{{'api/reports/report.php?type=excel&or=P&page=reporteembarque_asignacioncanalV2&booking='+booking.booking_id}}">
+										<i class="fa fa-download"></i> Reporte Asignación Canal
+									</a>
+								</footer>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+			</article>
+		</div>
+
+		<div class='row' >
+			<article class='col-sm-12 col-md-12 col-lg-12'>
+				<div class="jarviswidget jarviswidget-color-blueLight" data-widget-editbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false" data-widget-fullscreenbutton="false">
+
+					<header>
+						<span class="widget-icon"> <i class="fa fa-truck"></i> </span>
+						<h2><strong>CONTENEDORES</strong></h2>
+
+					</header>
+
+					<div>
+
+						<div class="jarviswidget-editbox">
+
+						</div>
+
+						<div class="widget-body">
+							<div class="" ng-if="booking.contenedoresList.length > 0">
+								<ul class="nav nav-tabs bordered" id="demo-pill-nav">
+									<li ng-class="{'active': $index == 0}" ng-repeat="item in booking.contenedoresList">
+										<a href="" data-target="#tab-c{{$index + 1}}" data-toggle="tab"><span class="badge bg-color-blue txt-color-white"><strong>{{item.ordenservicio_identificador + '/' + booking.booking_numerocontenedores}}</strong></span> {{item.ordenservicio_contenedor ? item.ordenservicio_contenedor : "PENDIENTE"}} </a>
+									</li>
+								</ul>
+								<div class="tab-content">
+									<div class="tab-pane" id="tab-c{{$index + 1}}" ng-class="{'active': $index == 0}" ng-repeat="ordenservicio in booking.contenedoresList">
+										<form class='smart-form' name='formContenedor' novalidate>
+											<fieldset>
+												<div class='row'>
+													<section class='col col-6'>
+														<label class='label'>Transporte</label>
+														<label class='input'>
+															<input type="text" class="form-control" uppercase placeholder="Transporte" readonly
+																   ng-model="ordenservicio.proveedorSeleccionado"/>
+
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Terminal retiro</label>
+														<label class='input'>
+															<input type="text" class="form-control" placeholder="Terminal retiro" readonly
+																   ng-model="ordenservicio.ordenservicio_terminalretiro"/>
+														</label>
+													</section>
+
+													<section class='col col-3'>
+														<label class='label'>Terminal de Embarque</label>
+														<label class='input'>
+															<input type="text" class="form-control" placeholder="Terminal Embarque" readonly
+																   ng-model="ordenservicio.ordenservicio_terminalembarque"/>
+														</label>
+													</section>
+												</div>
+												<div class='row'>
+													<section class='col col-6'>
+														<label class='label'>Chofer</label>
+														<label class='input'>
+															<input type="text" class="form-control" uppercase placeholder="Chofer" readonly
+																   ng-model="ordenservicio.choferSeleccionado"/>
+
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Vehiculo</label>
+														<label class='input'>
+															<input type="text" class="form-control" uppercase placeholder="Vehiculo" readonly
+																   ng-model="ordenservicio.vehiculo_placa"/>
+
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Carreta</label>
+														<label class='input'>
+															<input type='text' name='ordenservicio_carreta' placeholder='Carreta' ng-model='ordenservicio.ordenservicio_carreta' readonly>
+														</label>
+													</section>
+												</div>
+												<div class='row'>
+
+													<section class='col col-2'>
+														<label class='label'>Contenedor</label>
+														<label class='input'>
+															<input type='text' uppercase placeholder='contenedor' minlength="11" maxlength="11" ng-model='ordenservicio.ordenservicio_contenedor' readonly>
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Tara</label>
+														<label class='input'>
+															<input type='text' name='ordenservicio_tara' placeholder='tara' ng-model='ordenservicio.ordenservicio_tara' readonly>
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Payload</label>
+														<label class='input'>
+															<input type='text' name='ordenservicio_payload' placeholder='payload' ng-model='ordenservicio.ordenservicio_payload' readonly>
+														</label>
+													</section>
+													<section class='col col-4'>
+														<label class='label'>Bolsa de seguridad de P.ADUANA</label>
+														<div class="input-group col-sm-12">
+
+															<label class='input'>
+																<input type="text" class="form-control" placeholder="Bolsa de seguridad de P.ADUANA"
+																	   ng-model="ordenservicio.precintoSeleccionadoFinal"  readonly/>
+															</label>
+															<span class="input-group-btn">
+																<a type="button" href="" ng-if="!mostarPrecinto && objPermiso.VISUALIZAR_NUMERO_PRECINTO_ADUANA" tooltip="Ver precinto" ng-click="showPrecintoAduana(ordenservicio);" title="Ver precinto" class="btn btn-success btn-sm"><i class="fa fa-eye"></i></a>
+																<a type="button" href="" ng-if="mostarPrecinto && objPermiso.VISUALIZAR_NUMERO_PRECINTO_ADUANA" tooltip="Ocultar precinto" ng-click="hidePrecintoAduana(ordenservicio);" title="Ocultar precinto" class="btn btn-success btn-sm"><i class="fa fa-eye-slash"></i></a>
+															</span>
+														</div>
+													</section>
+												</div>
+												<div class="row">
+													<section class='col col-6'>
+														<label class='label'>Planta</label>
+														<label class='input'>
+															<input type="text" class="form-control" name="ordenservicio_planta" placeholder="Planta"
+																   ng-model="ordenservicio.ordenservicio_planta" readonly/>
+														</label>
+													</section>
+													<section class='col col-3'>
+														<label class='label'>Guía de transporte</label>
+														<label class='input'>
+															<input type="text" class="form-control" name="ordenembarque_nroguia" placeholder="Guía de transporte"
+																   ng-model="ordenservicio.ordenembarque_nroguia" readonly/>
+														</label>
+													</section>
+												</div>
+												<div class="row">
+													<div class="col col-sm-12">
+														<p class="alert alert-info ">
+															<strong>CANAL Y RCE</strong>
+														</p>
+													</div>
+												</div>
+												<div class='row'>
+													<section class='col col-2' ng-if="booking.booking_escargasuelta != '1'">
+														<label class='label'>N° RCE</label>
+														<label class='input'>
+															<input type='text' name='ordenservicio_numerorce' placeholder='Ingrese N° RCE' ng-model='ordenservicio.ordenservicio_numerorce'
+																   ng-disabled="booking.booking_tipoembarque == '2' ">
+														</label>
+														<label ng-show='formContenedor.ordenservicio_numerorce.$invalid && submittedCanal' class='error_validacion'>Campo Requerido</label>
+													</section>
+													<section class='col col-2' ng-if="booking.booking_escargasuelta != '1'">
+														<label class='label'>Fecha Envio RCE</label>
+														<label class='input'>
+															<input name="ordenservicio_fechanumeracion" ng-model="ordenservicio.ordenservicio_fechanumeracion"
+																   maxlength="10" type="text"
+																   ng-click="$event.preventDefault();$event.stopPropagation();opened1 = true;opened2 = false"
+																   is-open="opened1" placeholder="Fecha de Numeración"
+																   datepicker-popup="dd/MM/yyyy" autocomplete="off"
+																   class="form-control input-sm date-picker" datepicker-append-to-body="true"
+																   ng-disabled="booking.booking_tipoembarque == '2' "/>
+														</label>
+														<label ng-show='formContenedor.ordenservicio_fechanumeracion.$invalid && submittedCanal' class='error_validacion'>Campo Requerido</label>
+													</section>
+													<section class='col col-2'>
+														<label class='label'>Canal</label>
+														<div class="input-group col-sm-12">
+															<select class='form-control' ng-model='ordenservicio.ordenservicio_canal' name='ordenservicio_canal' ng-required="booking.booking_tipoembarque != '4'"
+																	ng-options='item.id as item.name for item in canalList'>
+															</select>
+															<span class="input-group-btn">
+																<a type="button" href="" ng-if="ordenservicio.ordenservicio_canal" title="Copiar" tooltip="Copiar" ng-click="copyData('ordenservicio_canal', $index);"
+																   class="btn btn-primary btn-sm"><i class="fa fa-copy"></i></a>
+															</span>
+														</div>
+													</section>
+													<section class='col col-1' ng-if="ordenservicio.ordenservicio_canal > 0 && booking.booking_tipoembarque == '4'">
+														<label class='label'>¿Escaner?</label>
+														<select class='form-control' ng-model='ordenservicio.ordenservicio_escaner' name='ordenservicio_escaner' required
+																ng-options='item.id as item.name for item in escanerList'>
+														</select>
+													</section>
+
+													<section class='col col-2'>
+														<label class='label'>N° Guia Transporte</label>
+														<label class='input'>
+															<input type='text' uppercase name='ordenembarque_nroguiatransporte' placeholder='Guia Transporte'
+																   ng-model='ordenservicio.ordenembarque.ordenembarque_nroguiatransporte'>
+														</label>
+													</section>
+
+													<section class='col col-3'>
+														<label class='label'>&nbsp;</label>
+														<div class="input-group col-12">
+															<button tooltip="Subir Imagen" title="Subir Imagen" data-loading-text="<i class='fa fa-refresh fa-spin'></i>"
+																	ng-disabled="ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte" ngf-select="UtilityService.subirArchivoItem($file,subirDocumentoGUIATRANSPORTE, ordenservicio)" ngf-drop="UtilityService.subirArchivo($file,subirDocumentoGUIATRANSPORTE)" class="btn btn-info btn-block btn-sm">
+																<strong>Adjuntar GUIA TRANSPORTE</strong>
+															</button>
+															<span class="input-group-btn">
+																<a href="{{ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte}}" target="_blank" class="btn btn-success btn-sm"
+																   ng-if="ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte" type="button" title="Descargar Imagen" tooltip="Descargar Imagen">
+																	<i class="fa fa-download"></i>
+																</a>
+															</span>
+														</div>
+													</section>
+
+												</div>
+												<div class="row">
+													<section class='col col-2'>
+														<label class='label'>N° Guia Remisión</label>
+														<label class='input'>
+															<input type='text' uppercase name='ordenembarque_nroguia' placeholder='Guia Remisión'
+																   ng-model='ordenservicio.ordenembarque.ordenembarque_nroguia'>
+														</label>
+													</section>
+
+													<section class='col col-3'>
+														<label class='label'>&nbsp;</label>
+														<div class="input-group col-12">
+															<button tooltip="Subir Imagen" title="Subir Imagen" data-loading-text="<i class='fa fa-refresh fa-spin'></i>"
+																	ng-disabled="ordenservicio.ordenembarque.ordenembarque_ficheroguia"
+																	ngf-select="UtilityService.subirArchivoItem($file,subirDocumentoGUIAREMISION, ordenservicio)"
+																	ngf-drop="UtilityService.subirArchivo($file,subirDocumentoGUIAREMISION)" class="btn btn-info btn-block btn-sm">
+																<strong>Adjuntar GUIA REMISIÓN</strong>
+															</button>
+															<span class="input-group-btn">
+																<a href="{{ordenservicio.ordenembarque.ordenembarque_ficheroguia}}" target="_blank" class="btn btn-success btn-sm"
+																   ng-if="ordenservicio.ordenembarque.ordenembarque_ficheroguia" type="button" title="Descargar Adjunto" tooltip="Descargar Adjunto">
+																	<i class="fa fa-download"></i>
+																</a>
+															</span>
+														</div>
+													</section>
+												</div>
+
+
+
+											</fieldset>
+											<footer>
+
+												<div class="dropdown pull-left" ng-show="!booking.booking_fechacanal && (ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte || ordenservicio.ordenembarque.ordenembarque_ficheroguia)">
+													<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-danger" data-target="#" href="javascript:void(0);">
+														<i class="fa fa-thumbs-down"></i> Rechazar Guías <span class="caret"></span> </a>
+													<ul class="dropdown-menu multi-level" role="menu">
+														<li><a href="javascript:void(0);" ng-click="rechazarGuia(ordenservicio, 1)"
+															   ng-if="ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte">Guía Transporte</a></li>
+														<li><a href="javascript:void(0);" ng-click="rechazarGuia(ordenservicio, 2)"
+															   ng-if="ordenservicio.ordenembarque.ordenembarque_ficheroguia">Guía Remisión</a></li>
+														<li><a href="javascript:void(0);" ng-click="rechazarGuia(ordenservicio, -1)"
+															   ng-if="ordenservicio.ordenembarque.ordenembarque_ficheroguiatransporte
+															   && ordenservicio.ordenembarque.ordenembarque_ficheroguia" >Ambas Guías</a></li>
+													</ul>
+												</div>
+
+
+												<a ng-disabled='formContenedor.$invalid && submittedCanal' class='btn btn-primary' ng-click='guardarCambiosRCE(formContenedor, ordenservicio)' data-loading-text='Cargando...' id='btnModificar'>
+													<i class='fa fa-save'></i>&nbsp;&nbsp;&nbsp;&nbsp;
+													Guardar Cambios RCE
+												</a>
+											</footer>
+										</form>
+									</div>
+								</div>
+							</div>
+
+							<div class="text-center" ng-if="booking.contenedoresList.length == 0" style="font-size: 30px;">
+								<i class="fa fa-warning text-warning"></i>
+								<p class="text-warning">Sin Información</p>
+								<p style="font-size: 15px"><strong>El booking no tiene contenedores registrados.</strong></p>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+			</article>
+		</div>
+
+		<div class='row' >
+			<article class='col-sm-12 col-md-12 col-lg-8 col-md-offset-2' ng-if="1 == 1">
+				<div class="jarviswidget jarviswidget-color-greenDark" data-widget-editbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false" data-widget-fullscreenbutton="false">
+
+					<header>
+						<span class="widget-icon"> <i class="fa fa-folder"></i> </span>
+						<h2><strong>DAM</strong></h2>
+						<div class="widget-toolbar">
+							<div class="smart-form">
+								<label class="toggle">
+									<input type="checkbox" ng-model="booking.tieneSeries" ng-true-value="1" ng-false-value="0">
+									<i data-swchon-text="SI" data-swchoff-text="NO"></i><span style="color: white !important;">¡Tiene Series!</span></label>
+							</div>
+						</div>
+
+					</header>
+
+					<div>
+
+						<div class="jarviswidget-editbox">
+
+						</div>
+
+						<div class="widget-body no-padding">
+							<form class='smart-form' name='form' novalidate>
+
+								<fieldset>
+									<div class="row">
+										<section class='col col-sm-12'>
+											<div class="custom-scroll table-responsive" style="overflow-y: scroll;">
+												<table class="table table-bordered">
+													<thead>
+													<tr class="info">
+														<th class="text-center" style="width: 20%">Aduana Numeración</th>
+														<th class="text-center" style="width: 20%">N° DAM</th>
+														<th class="text-center" style="width: 20%">N° Orden</th>
+														<th class="text-center" style="width: 20%">Fecha númeración</th>
+														<th class="text-center" style="width: 10%" ng-if="booking.tieneSeries == PARAM.SI">N° Series</th>
+														<th class="text-center" style="width: 25%">DAM</th>
+													</tr>
+													</thead>
+													<tbody>
+													<tr ng-repeat="item in bookingDamList">
+														<td class="text-center">
+															<select class="text-center"  ng-model="item.aduananumeracion_id" style="height: 26px;width: 100%; text-align: center!important;"
+																	ng-options="item.aduananumeracion_id as item.aduananumeracion_codigo + ' ' + item.aduananumeracion_nombre for item in aduanaNumeracionList">
+															</select>
+														</td>
+														<td class="text-center">
+															<input type='text' class="text-center" solo-numeros="" style="height: 26px;width: 100%"
+																   ng-model='item.bookingdam_numerodam'>
+														</td>
+
+														<td class="text-center">
+															<input type='text' class="text-center" style="height: 26px;width: 100%" solo-numeros=""
+																   ng-model='item.bookingdam_numeroservicio'>
+														</td>
+
+														<td class="text-center">
+
+															<input name="bookingdam_fechanumeracion{{item.bookingdam_id}}" ng-model="item.bookingdam_fechanumeracion"
+																   maxlength="10" type="text"
+																   ng-click="$event.preventDefault();$event.stopPropagation();opened2 = true;opened1 = false"
+																   is-open="opened2" placeholder="Fecha numeración"
+																   datepicker-popup="dd/MM/yyyy" autocomplete="off" placement="auto top-left"
+																   class="date-picker text-center" style="height: 26px;width: 100%"
+																   datepicker-append-to-body="true"/>
+
+														</td>
+
+														<td class="text-center" ng-if="booking.tieneSeries == PARAM.SI">
+															<input type='text' class="text-center" style="height: 26px;width: 100%" solo-numeros-sin-decimal
+																   ng-model='item.bookingdam_totalserie'>
+														</td>
+
+														<td class="text-center">
+
+															<div class="input-group col-sm-12">
+																<button tooltip="Subir Imagen" title="Subir Imagen" id="btnImagen{{item.bookingdam_id}}" data-loading-text="<i class='fa fa-refresh fa-spin'></i>"
+																		ng-disabled="item.bookingdam_fichero || item.habilitado == false" ngf-select="UtilityService.subirArchivoBookingDam($file,subirDocumentoDAM,item)" class="btn btn-info btn-block btn-sm">
+																	<strong>Adjuntar DAM </strong>
+																</button>
+																<span class="input-group-btn">
+																	<a href="{{item.bookingdam_fichero}}" target="_blank" class="btn btn-success btn-sm"
+																	   ng-if="item.bookingdam_fichero" type="button" title="Descargar Imagen" tooltip="Descargar Imagen"
+																	   ng-disabled="item.habilitado == false">
+																		<i class="fa fa-download"></i>
+																	</a>
+																	<button class="btn btn-danger btn-sm" type="button" title="Eliminar Imagen" data-loading-text="<i class='fa fa-refresh fa-spin'></i>"
+																			ng-if="item.bookingdam_fichero" ng-click="eliminarArchivoDAM(item)" id="btnEliminarImagen{{item.bookingdam_id}}" tooltip="Eliminar Imagen"
+																			ng-disabled="item.habilitado == false">
+																		<i class="fa fa-trash-o"></i>
+																	</button>
+																</span>
+															</div>
+
+														</td>
+
+													</tr>
+													</tbody>
+												</table>
+											</div>
+										</section>
+									</div>
+
+								</fieldset>
+								<footer>
+									<a class='btn btn-warning' ng-click='guardarCambiosDAM()' data-loading-text='Cargando...' id='btnModificarDAM'>
+										<i class='fa fa-save'></i>&nbsp;&nbsp;&nbsp;&nbsp;
+										Guardar Cambios
+									</a>
+								</footer>
+							</form>
+
+						</div>
+
+					</div>
+
+				</div>
+			</article>
+		</div>
+	</section>
+</div>
+
+

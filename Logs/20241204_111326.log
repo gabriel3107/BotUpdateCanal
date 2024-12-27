@@ -1,0 +1,37 @@
+2024-12-04 11.13.26; Inicio de Ejecución BotUpdateCanal
+2024-12-04 11:13:55; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-04 11:14:25; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-04 11:14:28; Procesando las Dams e ingresar a la web sunat
+2024-12-04 11:15:15; Datos aun Incorrectos o los parámetros son incorrectos 3500
+2024-12-04 11:15:21; Datos aun Incorrectos o los parámetros son incorrectos 3494
+2024-12-04 11:15:37; Dam 21363 aun no tiene CANAL
+2024-12-04 11:15:56; Dam 21320 aun no tiene CANAL
+2024-12-04 11:16:13; Dam 21321 aun no tiene CANAL
+2024-12-04 11:16:30; Dam 21302 aun no tiene CANAL
+2024-12-04 11:16:48; Dam 21293 aun no tiene CANAL
+2024-12-04 11:17:05; Dam 21295 aun no tiene CANAL
+2024-12-04 11:17:23; Dam 21292 aun no tiene CANAL
+2024-12-04 11:17:40; Dam 21294 aun no tiene CANAL
+2024-12-04 11:17:57; Dam 21006 aun no tiene CANAL
+2024-12-04 11:18:15; Dam 21134 aun no tiene CANAL
+2024-12-04 11:19:07; Dam 20973 aun no tiene CANAL
+2024-12-04 11:19:24; Dam 20979 aun no tiene CANAL
+2024-12-04 11:19:41; Dam 20978 aun no tiene CANAL
+2024-12-04 11:19:59; Dam 20837 aun no tiene CANAL
+2024-12-04 11:20:16; Dam 21307 aun no tiene CANAL
+2024-12-04 11:20:34; Dam 21306 aun no tiene CANAL
+2024-12-04 11:21:01; Dam 21127 aun no tiene CANAL
+2024-12-04 11:24:01; Dam 220 aun no tiene CANAL
+2024-12-04 11:24:49; Dam 236 aun no tiene CANAL
+2024-12-04 11:25:38; Dam 237 aun no tiene CANAL
+2024-12-04 11:26:26; Dam 7739 aun no tiene CANAL
+2024-12-04 11:26:50; Dam 7731 aun no tiene CANAL
+2024-12-04 11:26:52; 121011 Ya esta registrado en la DB
+2024-12-04 11:26:52; 33378 Ya esta registrado en la DB
+2024-12-04 11:26:59; se cerro la pagina de SUNAT con éxito
+2024-12-04 11:27:32; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-04 11:29:27; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-04 11:29:35; Se envió el correo con éxito
+2024-12-04 11:29:43;  Archivo REPORTE_RCE_ENVIADOS 04-11-2024 al 04-12-2024_20241204_1129.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-04 11:29:44; Fin del robot  BotUpdateCanal

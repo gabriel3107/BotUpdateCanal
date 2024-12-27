@@ -1,0 +1,37 @@
+2024-12-22 22.19.12; Inicio de Ejecución BotUpdateCanal
+2024-12-22 22:19:45; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-22 22:20:16; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-22 22:20:16; Procesando las Dams e ingresar a la web sunat
+2024-12-22 22:21:16; Dam 3768 aun no tiene CANAL
+2024-12-22 22:21:35; Dam 34459 aun no tiene CANAL
+2024-12-22 22:21:54; Dam 34456 aun no tiene CANAL
+2024-12-22 22:22:13; Dam 9129 aun no tiene CANAL
+2024-12-22 22:22:32; Dam 23104 aun no tiene CANAL
+2024-12-22 22:22:51; Dam 23100 aun no tiene CANAL
+2024-12-22 22:24:08; Dam 23115 aun no tiene CANAL
+2024-12-22 22:24:27; Dam 23106 aun no tiene CANAL
+2024-12-22 22:24:45; Dam 52970 aun no tiene CANAL
+2024-12-22 22:25:04; Dam 3329 aun no tiene CANAL
+2024-12-22 22:26:21; Dam 52846 aun no tiene CANAL
+2024-12-22 22:29:16; Dam 9105 aun no tiene CANAL
+2024-12-22 22:29:34; Dam 53082 aun no tiene CANAL
+2024-12-22 22:31:50; Dam 53080 aun no tiene CANAL
+2024-12-22 22:32:09; Dam 53079 aun no tiene CANAL
+2024-12-22 22:32:28; Dam 53078 aun no tiene CANAL
+2024-12-22 22:35:44; Dam 52778 aun no tiene CANAL
+2024-12-22 22:41:58; Dam 23178 aun no tiene CANAL
+2024-12-22 22:42:17; Dam 23177 aun no tiene CANAL
+2024-12-22 22:42:36; Dam 23179 aun no tiene CANAL
+2024-12-22 22:42:55; Dam 23176 aun no tiene CANAL
+2024-12-22 22:44:13; Dam 53154 aun no tiene CANAL
+2024-12-22 22:49:28; Dam 53226 aun no tiene CANAL
+2024-12-22 22:50:36; Dam 53073 aun no tiene CANAL
+2024-12-22 22:50:55; Dam 22981 aun no tiene CANAL
+2024-12-22 22:51:14; Dam 52432 aun no tiene CANAL
+2024-12-22 22:52:22; se cerro la pagina de SUNAT con éxito
+2024-12-22 22:52:58; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-22 23:30:28; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-22 23:30:44; Se envió el correo con éxito
+2024-12-22 23:30:51;  Archivo REPORTE_RCE_ENVIADOS 22-11-2024 al 22-12-2024_20241222_2330.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-22 23:30:51; Fin del robot  BotUpdateCanal

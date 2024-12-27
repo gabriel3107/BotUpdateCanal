@@ -1,0 +1,37 @@
+2024-10-30 17.09.41; Inicio de Ejecución BotUpdateCanal
+2024-10-30 17:10:09; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-30 17:10:40; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-10-30 17:10:40; Procesando las Dams e ingresar a la web sunat
+2024-10-30 17:21:55; Dam 5483 aun no tiene CANAL
+2024-10-30 17:22:12; Dam 5481 aun no tiene CANAL
+2024-10-30 17:24:12; Dam 16169 aun no tiene CANAL
+2024-10-30 17:24:29; Dam 16170 aun no tiene CANAL
+2024-10-30 17:24:46; Dam 16171 aun no tiene CANAL
+2024-10-30 17:25:45; Dam 2963 aun no tiene CANAL
+2024-10-30 17:26:02; Dam 16037 aun no tiene CANAL
+2024-10-30 17:26:08; Datos aun Incorrectos o los parámetros son incorrectos 2994
+2024-10-30 17:26:24; Dam 16524 aun no tiene CANAL
+2024-10-30 17:28:58; Dam 16120 aun no tiene CANAL
+2024-10-30 17:28:59; 31741 Ya esta registrado en la DB
+2024-10-30 17:29:15; Dam 15930 aun no tiene CANAL
+2024-10-30 17:29:32; Dam 15932 aun no tiene CANAL
+2024-10-30 17:29:49; Dam 15933 aun no tiene CANAL
+2024-10-30 17:30:07; Dam 15934 aun no tiene CANAL
+2024-10-30 17:30:24; Dam 15936 aun no tiene CANAL
+2024-10-30 17:32:10; 16187 Ya esta registrado en la DB
+2024-10-30 17:34:22; 30940 Ya esta registrado en la DB
+2024-10-30 17:36:28; 25998 Ya esta registrado en la DB
+2024-10-30 17:37:03; 29387 Ya esta registrado en la DB
+2024-10-30 17:37:03; 29393 Ya esta registrado en la DB
+2024-10-30 17:37:03; 29392 Ya esta registrado en la DB
+2024-10-30 17:37:03; 110658 Ya esta registrado en la DB
+2024-10-30 17:37:03; 110663 Ya esta registrado en la DB
+2024-10-30 17:37:03; 29075 Ya esta registrado en la DB
+2024-10-30 17:37:03; 24407 Ya esta registrado en la DB
+2024-10-30 17:37:10; se cerro la pagina de SUNAT con éxito
+2024-10-30 17:37:42; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-30 17:59:33; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-10-30 17:59:41; Se envió el correo con éxito
+2024-10-30 17:59:47;  Archivo REPORTE_RCE_ENVIADOS 29-09-2024 al 29-10-2024_20241030_1759.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-10-30 17:59:47; Fin del robot  BotUpdateCanal

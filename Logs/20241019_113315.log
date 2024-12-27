@@ -1,0 +1,74 @@
+2024-10-19 11.33.15; Inicio de Ejecución BotUpdateCanal
+2024-10-19 11:33:46; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-19 11:34:17; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-10-19 11:34:17; Procesando las Dams e ingresar a la web sunat
+2024-10-19 11:35:05; Datos aun Incorrectos o los parámetros son incorrectos 2869
+2024-10-19 11:35:21; Dam 15229 aun no tiene CANAL
+2024-10-19 11:35:39; Dam 15152 aun no tiene CANAL
+2024-10-19 11:35:57; Dam 15151 aun no tiene CANAL
+2024-10-19 11:36:14; Dam 15150 aun no tiene CANAL
+2024-10-19 11:36:31; Dam 15149 aun no tiene CANAL
+2024-10-19 11:36:48; Dam 15148 aun no tiene CANAL
+2024-10-19 11:37:05; Dam 15147 aun no tiene CANAL
+2024-10-19 11:37:23; Dam 15146 aun no tiene CANAL
+2024-10-19 11:37:40; Dam 15144 aun no tiene CANAL
+2024-10-19 11:37:57; Dam 15154 aun no tiene CANAL
+2024-10-19 11:38:14; Dam 15153 aun no tiene CANAL
+2024-10-19 11:38:31; Dam 2912 aun no tiene CANAL
+2024-10-19 11:38:48; Dam 2911 aun no tiene CANAL
+2024-10-19 11:39:05; Dam 15118 aun no tiene CANAL
+2024-10-19 11:39:23; Dam 15119 aun no tiene CANAL
+2024-10-19 11:39:40; Dam 15121 aun no tiene CANAL
+2024-10-19 11:39:57; Dam 15120 aun no tiene CANAL
+2024-10-19 11:39:58; 110457 Ya esta registrado en la DB
+2024-10-19 11:40:14; Dam 110456 aun no tiene CANAL
+2024-10-19 11:40:31; Dam 110066 aun no tiene CANAL
+2024-10-19 11:40:31; 110458 Ya esta registrado en la DB
+2024-10-19 11:40:31; 110455 Ya esta registrado en la DB
+2024-10-19 11:40:47; Dam 15177 aun no tiene CANAL
+2024-10-19 11:41:04; Dam 25781 aun no tiene CANAL
+2024-10-19 11:41:21; Dam 15014 aun no tiene CANAL
+2024-10-19 11:41:38; Dam 15015 aun no tiene CANAL
+2024-10-19 11:41:55; Dam 15040 aun no tiene CANAL
+2024-10-19 11:42:13; Dam 15038 aun no tiene CANAL
+2024-10-19 11:42:30; Dam 15037 aun no tiene CANAL
+2024-10-19 11:42:47; Dam 15036 aun no tiene CANAL
+2024-10-19 11:43:04; Dam 15034 aun no tiene CANAL
+2024-10-19 11:43:21; Dam 15035 aun no tiene CANAL
+2024-10-19 11:43:38; Dam 15033 aun no tiene CANAL
+2024-10-19 11:43:39; 110658 Ya esta registrado en la DB
+2024-10-19 11:43:39; 110663 Ya esta registrado en la DB
+2024-10-19 11:43:55; Dam 15163 aun no tiene CANAL
+2024-10-19 11:44:12; Dam 15160 aun no tiene CANAL
+2024-10-19 11:44:29; Dam 29143 aun no tiene CANAL
+2024-10-19 11:44:46; Dam 29710 aun no tiene CANAL
+2024-10-19 11:45:03; Dam 29141 aun no tiene CANAL
+2024-10-19 11:45:20; Dam 29140 aun no tiene CANAL
+2024-10-19 11:45:37; Dam 29142 aun no tiene CANAL
+2024-10-19 11:45:54; Dam 15088 aun no tiene CANAL
+2024-10-19 11:46:12; Dam 29073 aun no tiene CANAL
+2024-10-19 11:46:12; 29075 Ya esta registrado en la DB
+2024-10-19 11:46:28; Dam 29072 aun no tiene CANAL
+2024-10-19 11:46:47; Dam 29071 aun no tiene CANAL
+2024-10-19 11:47:04; Dam 29069 aun no tiene CANAL
+2024-10-19 11:47:21; Dam 29068 aun no tiene CANAL
+2024-10-19 11:47:38; Dam 29070 aun no tiene CANAL
+2024-10-19 11:47:55; Dam 29067 aun no tiene CANAL
+2024-10-19 11:49:15; Dam 14888 aun no tiene CANAL
+2024-10-19 11:49:32; Dam 14886 aun no tiene CANAL
+2024-10-19 11:49:50; Dam 14887 aun no tiene CANAL
+2024-10-19 11:50:07; Dam 14889 aun no tiene CANAL
+2024-10-19 11:50:24; Dam 2840 aun no tiene CANAL
+2024-10-19 11:50:41; Dam 15245 aun no tiene CANAL
+2024-10-19 11:51:51; Datos aun Incorrectos o los parámetros son incorrectos 2843
+2024-10-19 11:52:41; Dam 15402 aun no tiene CANAL
+2024-10-19 11:54:07; Dam 107238 aun no tiene CANAL
+2024-10-19 11:54:24; Dam 2859 aun no tiene CANAL
+2024-10-19 11:54:25; 24407 Ya esta registrado en la DB
+2024-10-19 11:54:33; se cerro la pagina de SUNAT con éxito
+2024-10-19 11:55:05; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-19 11:59:13; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-10-19 11:59:20; Se envió el correo con éxito
+2024-10-19 11:59:27;  Archivo REPORTE_RCE_ENVIADOS 19-09-2024 al 19-10-2024_20241019_1159.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-10-19 11:59:28; Fin del robot  BotUpdateCanal

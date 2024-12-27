@@ -1,0 +1,35 @@
+2024-11-04 11.10.46; Inicio de Ejecución BotUpdateCanal
+2024-11-04 11:11:19; El iturriapp no esta pidiendo cambio de contraseña
+2024-11-04 11:11:50; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-11-04 11:11:52; Procesando las Dams e ingresar a la web sunat
+2024-11-04 11:13:29; Dam 33427 aun no tiene CANAL
+2024-11-04 11:13:46; Dam 33426 aun no tiene CANAL
+2024-11-04 11:14:04; Dam 33430 aun no tiene CANAL
+2024-11-04 11:14:21; Dam 33432 aun no tiene CANAL
+2024-11-04 11:14:39; Dam 16912 aun no tiene CANAL
+2024-11-04 11:14:56; Dam 6055 aun no tiene CANAL
+2024-11-04 11:15:13; Dam 6054 aun no tiene CANAL
+2024-11-04 11:15:31; Dam 6053 aun no tiene CANAL
+2024-11-04 11:15:48; Dam 6052 aun no tiene CANAL
+2024-11-04 11:16:05; Dam 116271 aun no tiene CANAL
+2024-11-04 11:16:23; Dam 116272 aun no tiene CANAL
+2024-11-04 11:16:40; Dam 26913 aun no tiene CANAL
+2024-11-04 11:16:57; Dam 26914 aun no tiene CANAL
+2024-11-04 11:17:49; Dam 5746 aun no tiene CANAL
+2024-11-04 11:18:41; Dam 3002 aun no tiene CANAL
+2024-11-04 11:20:08; Dam 16569 aun no tiene CANAL
+2024-11-04 11:20:25; Dam 16652 aun no tiene CANAL
+2024-11-04 11:20:26; 25998 Ya esta registrado en la DB
+2024-11-04 11:20:26; 29387 Ya esta registrado en la DB
+2024-11-04 11:20:26; 29393 Ya esta registrado en la DB
+2024-11-04 11:20:26; 29392 Ya esta registrado en la DB
+2024-11-04 11:20:26; 110658 Ya esta registrado en la DB
+2024-11-04 11:20:26; 110663 Ya esta registrado en la DB
+2024-11-04 11:20:26; 29075 Ya esta registrado en la DB
+2024-11-04 11:20:34; se cerro la pagina de SUNAT con éxito
+2024-11-04 11:21:08; El iturriapp no esta pidiendo cambio de contraseña
+2024-11-04 11:24:12; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-11-04 11:24:20; Se envió el correo con éxito
+2024-11-04 11:24:27;  Archivo REPORTE_RCE_ENVIADOS 05-10-2024 al 04-11-2024_20241104_1124.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-11-04 11:24:27; Fin del robot  BotUpdateCanal

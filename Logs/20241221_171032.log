@@ -1,0 +1,46 @@
+2024-12-21 17.10.32; Inicio de Ejecución BotUpdateCanal
+2024-12-21 17:11:00; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-21 17:11:31; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-21 17:11:31; Procesando las Dams e ingresar a la web sunat
+2024-12-21 17:12:30; Dam 34714 aun no tiene CANAL
+2024-12-21 17:12:48; Dam 52833 aun no tiene CANAL
+2024-12-21 17:13:05; Dam 22895 aun no tiene CANAL
+2024-12-21 17:13:23; Dam 52379 aun no tiene CANAL
+2024-12-21 17:13:41; Dam 22955 aun no tiene CANAL
+2024-12-21 17:13:59; Dam 22948 aun no tiene CANAL
+2024-12-21 17:14:17; Dam 3329 aun no tiene CANAL
+2024-12-21 17:14:34; Dam 23012 aun no tiene CANAL
+2024-12-21 17:14:52; Dam 34456 aun no tiene CANAL
+2024-12-21 17:15:09; Dam 34459 aun no tiene CANAL
+2024-12-21 17:15:10; 22723 Ya esta registrado en la DB
+2024-12-21 17:15:27; Dam 34712 aun no tiene CANAL
+2024-12-21 17:15:45; Dam 23113 aun no tiene CANAL
+2024-12-21 17:16:02; Dam 52811 aun no tiene CANAL
+2024-12-21 17:16:20; Dam 22839 aun no tiene CANAL
+2024-12-21 17:16:21; 52308 Ya esta registrado en la DB
+2024-12-21 17:16:37; Dam 51838 aun no tiene CANAL
+2024-12-21 17:16:55; Dam 52081 aun no tiene CANAL
+2024-12-21 17:19:07; Dam 22892 aun no tiene CANAL
+2024-12-21 17:19:24; Dam 52778 aun no tiene CANAL
+2024-12-21 17:22:01; Dam 52764 aun no tiene CANAL
+2024-12-21 17:24:59; Dam 52591 aun no tiene CANAL
+2024-12-21 17:25:17; Dam 23067 aun no tiene CANAL
+2024-12-21 17:25:35; Dam 9104 aun no tiene CANAL
+2024-12-21 17:25:53; Dam 9101 aun no tiene CANAL
+2024-12-21 17:26:10; Dam 52812 aun no tiene CANAL
+2024-12-21 17:26:28; Dam 52187 aun no tiene CANAL
+2024-12-21 17:26:37; se cerro la pagina de SUNAT con éxito
+2024-12-21 17:27:12; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-21 17:28:07; No salió la alerta de guardar cambios del BK LMM0501340
+2024-12-21 17:29:17; No salió la alerta de guardar cambios del BK LMM0501338
+2024-12-21 17:30:26; No salió la alerta de guardar cambios del BK EBKG11235704
+2024-12-21 17:31:36; No salió la alerta de guardar cambios del BK EBKG11235705
+2024-12-21 17:32:45; No salió la alerta de guardar cambios del BK EBKG11235706
+2024-12-21 17:33:54; No salió la alerta de guardar cambios del BK 248066796
+2024-12-21 17:35:04; No salió la alerta de guardar cambios del BK MBM230055056
+2024-12-21 17:36:14; No salió la alerta de guardar cambios del BK EBKG11215230
+2024-12-21 17:36:39; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-21 17:36:46; Se envió el correo con éxito
+2024-12-21 17:36:51;  Archivo REPORTE_RCE_ENVIADOS 21-11-2024 al 21-12-2024 (1)_20241221_1736.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-21 17:36:51; Fin del robot  BotUpdateCanal

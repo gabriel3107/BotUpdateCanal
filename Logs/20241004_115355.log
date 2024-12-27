@@ -1,0 +1,40 @@
+2024-10-04 11.53.56; Inicio de Ejecución BotUpdateCanal
+2024-10-04 11:54:19; El iturriapp esta pidiendo cambio de contraseña
+2024-10-04 11:54:49; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-10-04 11:54:52; Procesando las Dams e ingresar a la web sunat
+2024-10-04 11:55:50; Dam 13326 aun no tiene CANAL
+2024-10-04 11:56:07; Dam 13327 aun no tiene CANAL
+2024-10-04 11:56:24; Dam 13294 aun no tiene CANAL
+2024-10-04 11:57:50; Dam 13239 aun no tiene CANAL
+2024-10-04 11:58:07; Dam 13238 aun no tiene CANAL
+2024-10-04 11:58:59; Dam 104920 aun no tiene CANAL
+2024-10-04 11:59:15; Dam 13090 aun no tiene CANAL
+2024-10-04 11:59:33; Dam 13292 aun no tiene CANAL
+2024-10-04 12:01:22; Datos aun Incorrectos o los parámetros son incorrectos 2656
+2024-10-04 12:01:39; Dam 13305 aun no tiene CANAL
+2024-10-04 12:01:56; Dam 24259 aun no tiene CANAL
+2024-10-04 12:03:23; Dam 13173 aun no tiene CANAL
+2024-10-04 12:03:40; Dam 13195 aun no tiene CANAL
+2024-10-04 12:03:57; Dam 13194 aun no tiene CANAL
+2024-10-04 12:04:14; Dam 13269 aun no tiene CANAL
+2024-10-04 12:04:31; Dam 13267 aun no tiene CANAL
+2024-10-04 12:04:48; Dam 13144 aun no tiene CANAL
+2024-10-04 12:05:05; Dam 13146 aun no tiene CANAL
+2024-10-04 12:05:22; Dam 2693 aun no tiene CANAL
+2024-10-04 12:05:39; Dam 2768 aun no tiene CANAL
+2024-10-04 12:05:40; 98088 Ya esta registrado en la DB
+2024-10-04 12:05:48; se cerro la pagina de SUNAT con éxito
+2024-10-04 12:06:14; El iturriapp esta pidiendo cambio de contraseña
+2024-10-04 12:06:46; No salió la alerta de guardar cambios del BK 245205676
+2024-10-04 12:07:15; No salió la alerta de guardar cambios del BK 245205691
+2024-10-04 12:07:45; No salió la alerta de guardar cambios del BK 245236885
+2024-10-04 12:08:14; No salió la alerta de guardar cambios del BK 245236872
+2024-10-04 12:08:44; No salió la alerta de guardar cambios del BK 245087694
+2024-10-04 12:09:13; No salió la alerta de guardar cambios del BK 245087664
+2024-10-04 12:09:43; No salió la alerta de guardar cambios del BK 245176067
+2024-10-04 12:10:12; No salió la alerta de guardar cambios del BK 245176051
+2024-10-04 12:10:26; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-10-04 12:10:38; Se envió el correo con éxito
+2024-10-04 12:10:44;  Archivo REPORTE_RCE_ENVIADOS 04-09-2024 al 04-10-2024_20241004_1210.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-10-04 12:10:44; Fin del robot  BotUpdateCanal

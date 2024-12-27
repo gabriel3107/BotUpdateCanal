@@ -1,0 +1,22 @@
+2024-12-27 04.14.36; Inicio de Ejecución BotUpdateCanal
+2024-12-27 04:15:05; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-27 04:15:35; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-27 04:15:35; Procesando las Dams e ingresar a la web sunat
+2024-12-27 04:16:17; 23361 Ya esta registrado en la DB
+2024-12-27 04:16:17; 35145 Ya esta registrado en la DB
+2024-12-27 04:16:33; Dam 23192 aun no tiene CANAL
+2024-12-27 04:16:34; 23100 Ya esta registrado en la DB
+2024-12-27 04:17:31; 23103 Ya esta registrado en la DB
+2024-12-27 04:17:31; 23106 Ya esta registrado en la DB
+2024-12-27 04:17:31; 34459 Ya esta registrado en la DB
+2024-12-27 04:17:31; 34456 Ya esta registrado en la DB
+2024-12-27 04:17:48; Dam 3329 aun no tiene CANAL
+2024-12-27 04:17:49; 51839 Ya esta registrado en la DB
+2024-12-27 04:17:49; 53025 Ya esta registrado en la DB
+2024-12-27 04:17:56; se cerro la pagina de SUNAT con éxito
+2024-12-27 04:18:31; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-27 04:19:59; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-27 04:20:06; Se envió el correo con éxito
+2024-12-27 04:20:11;  Archivo REPORTE_RCE_ENVIADOS 25-11-2024 al 25-12-2024 (6)_20241227_0420.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-27 04:20:11; Fin del robot  BotUpdateCanal

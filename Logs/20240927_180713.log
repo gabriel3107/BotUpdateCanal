@@ -1,0 +1,43 @@
+2024-09-27 18.07.13; Inicio de Ejecución BotUpdateCanal
+2024-09-27 18:07:45; El iturriapp no esta pidiendo cambio de contraseña
+2024-09-27 18:08:15; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-09-27 18:08:15; Procesando las Dams e ingresar a la web sunat
+2024-09-27 18:09:12; Dam 12716 aun no tiene CANAL
+2024-09-27 18:09:29; Dam 23868 aun no tiene CANAL
+2024-09-27 18:09:46; Dam 12628 aun no tiene CANAL
+2024-09-27 18:10:03; Dam 2734 aun no tiene CANAL
+2024-09-27 18:10:21; Dam 2735 aun no tiene CANAL
+2024-09-27 18:10:38; Dam 23789 aun no tiene CANAL
+2024-09-27 18:10:55; Dam 12561 aun no tiene CANAL
+2024-09-27 18:12:20; Dam 12570 aun no tiene CANAL
+2024-09-27 18:12:37; Dam 25658 aun no tiene CANAL
+2024-09-27 18:12:54; Dam 23771 aun no tiene CANAL
+2024-09-27 18:13:11; Dam 23770 aun no tiene CANAL
+2024-09-27 18:13:28; Dam 23769 aun no tiene CANAL
+2024-09-27 18:14:19; Dam 25762 aun no tiene CANAL
+2024-09-27 18:14:36; Dam 25763 aun no tiene CANAL
+2024-09-27 18:14:53; Dam 23772 aun no tiene CANAL
+2024-09-27 18:15:10; Dam 102436 aun no tiene CANAL
+2024-09-27 18:15:27; Dam 12664 aun no tiene CANAL
+2024-09-27 18:17:56; Dam 12607 aun no tiene CANAL
+2024-09-27 18:18:13; Dam 12730 aun no tiene CANAL
+2024-09-27 18:18:30; Dam 12466 aun no tiene CANAL
+2024-09-27 18:18:47; Dam 12467 aun no tiene CANAL
+2024-09-27 18:19:04; Dam 12468 aun no tiene CANAL
+2024-09-27 18:19:21; Dam 2718 aun no tiene CANAL
+2024-09-27 18:19:38; Dam 101718 aun no tiene CANAL
+2024-09-27 18:19:55; Dam 101719 aun no tiene CANAL
+2024-09-27 18:20:46; Dam 2720 aun no tiene CANAL
+2024-09-27 18:21:03; Dam 2728 aun no tiene CANAL
+2024-09-27 18:21:20; Dam 12361 aun no tiene CANAL
+2024-09-27 18:21:26; Datos aun Incorrectos o los parámetros son incorrectos 2537
+2024-09-27 18:22:16; Dam 2504 aun no tiene CANAL
+2024-09-27 18:22:33; Dam 2693 aun no tiene CANAL
+2024-09-27 18:22:34; 98088 Ya esta registrado en la DB
+2024-09-27 18:22:41; se cerro la pagina de SUNAT con éxito
+2024-09-27 18:23:14; El iturriapp no esta pidiendo cambio de contraseña
+2024-09-27 18:28:29; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-09-27 18:28:37; Se envió el correo con éxito
+2024-09-27 18:28:43;  Archivo REPORTE_RCE_ENVIADOS 17-09-2024 al 27-09-2024_20240927_1828.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-09-27 18:28:44; Fin del robot  BotUpdateCanal

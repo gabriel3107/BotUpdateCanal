@@ -1,0 +1,43 @@
+2024-10-18 11.43.13; Inicio de Ejecución BotUpdateCanal
+2024-10-18 11:43:42; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-18 11:44:12; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-10-18 11:44:15; Procesando las Dams e ingresar a la web sunat
+2024-10-18 11:45:15; Dam 15101 aun no tiene CANAL
+2024-10-18 11:46:08; Dam 15040 aun no tiene CANAL
+2024-10-18 11:46:26; Dam 15038 aun no tiene CANAL
+2024-10-18 11:46:43; Dam 15037 aun no tiene CANAL
+2024-10-18 11:47:01; Dam 15036 aun no tiene CANAL
+2024-10-18 11:47:18; Dam 15034 aun no tiene CANAL
+2024-10-18 11:47:36; Dam 15035 aun no tiene CANAL
+2024-10-18 11:47:53; Dam 15033 aun no tiene CANAL
+2024-10-18 11:48:46; Dam 2900 aun no tiene CANAL
+2024-10-18 11:49:38; Dam 14995 aun no tiene CANAL
+2024-10-18 11:53:26; Dam 110448 aun no tiene CANAL
+2024-10-18 11:58:06; Dam 15055 aun no tiene CANAL
+2024-10-18 11:58:24; Dam 15056 aun no tiene CANAL
+2024-10-18 11:58:42; Dam 15058 aun no tiene CANAL
+2024-10-18 11:58:59; Dam 15057 aun no tiene CANAL
+2024-10-18 11:59:17; Dam 14966 aun no tiene CANAL
+2024-10-18 11:59:34; Dam 15062 aun no tiene CANAL
+2024-10-18 11:59:52; Dam 15063 aun no tiene CANAL
+2024-10-18 12:03:03; Dam 14882 aun no tiene CANAL
+2024-10-18 12:03:55; Dam 14888 aun no tiene CANAL
+2024-10-18 12:04:13; Dam 14886 aun no tiene CANAL
+2024-10-18 12:04:31; Dam 14887 aun no tiene CANAL
+2024-10-18 12:04:48; Dam 14889 aun no tiene CANAL
+2024-10-18 12:08:31; Dam 2894 aun no tiene CANAL
+2024-10-18 12:11:37; Dam 14872 aun no tiene CANAL
+2024-10-18 12:14:44; Dam 14961 aun no tiene CANAL
+2024-10-18 12:16:12; Dam 14992 aun no tiene CANAL
+2024-10-18 12:23:23; Dam 2899 aun no tiene CANAL
+2024-10-18 12:23:43; Dam 14713 aun no tiene CANAL
+2024-10-18 12:24:35; Dam 107238 aun no tiene CANAL
+2024-10-18 12:25:28; Dam 2859 aun no tiene CANAL
+2024-10-18 12:25:29; 24407 Ya esta registrado en la DB
+2024-10-18 12:25:36; se cerro la pagina de SUNAT con éxito
+2024-10-18 12:26:08; El iturriapp no esta pidiendo cambio de contraseña
+2024-10-18 12:57:40; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-10-18 12:57:47; Se envió el correo con éxito
+2024-10-18 12:57:54;  Archivo REPORTE_RCE_ENVIADOS 18-09-2024 al 18-10-2024_20241018_1257.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-10-18 12:57:54; Fin del robot  BotUpdateCanal

@@ -1,0 +1,51 @@
+2024-12-24 22.14.35; Inicio de Ejecución BotUpdateCanal
+2024-12-24 22:15:03; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-24 22:15:34; Fin del robot del robot WebIturri y se descargo completo el reporte
+2024-12-24 22:15:34; Procesando las Dams e ingresar a la web sunat
+2024-12-24 22:17:19; Dam 9207 aun no tiene CANAL
+2024-12-24 22:17:37; Dam 35161 aun no tiene CANAL
+2024-12-24 22:17:54; Dam 23100 aun no tiene CANAL
+2024-12-24 22:18:12; Dam 23104 aun no tiene CANAL
+2024-12-24 22:18:29; Dam 23103 aun no tiene CANAL
+2024-12-24 22:18:47; Dam 23106 aun no tiene CANAL
+2024-12-24 22:19:04; Dam 9204 aun no tiene CANAL
+2024-12-24 22:19:22; Dam 34676 aun no tiene CANAL
+2024-12-24 22:19:39; Dam 53417 aun no tiene CANAL
+2024-12-24 22:19:57; Dam 52256 aun no tiene CANAL
+2024-12-24 22:20:14; Dam 34459 aun no tiene CANAL
+2024-12-24 22:20:32; Dam 34456 aun no tiene CANAL
+2024-12-24 22:20:49; Dam 654 aun no tiene CANAL
+2024-12-24 22:21:07; Dam 52258 aun no tiene CANAL
+2024-12-24 22:21:24; Dam 52255 aun no tiene CANAL
+2024-12-24 22:21:42; Dam 52259 aun no tiene CANAL
+2024-12-24 22:22:00; Dam 3329 aun no tiene CANAL
+2024-12-24 22:22:17; Dam 52845 aun no tiene CANAL
+2024-12-24 22:22:35; Dam 22810 aun no tiene CANAL
+2024-12-24 22:22:52; Dam 9206 aun no tiene CANAL
+2024-12-24 22:23:10; Dam 3769 aun no tiene CANAL
+2024-12-24 22:23:27; Dam 33049 aun no tiene CANAL
+2024-12-24 22:23:45; Dam 23267 aun no tiene CANAL
+2024-12-24 22:24:03; Dam 35230 aun no tiene CANAL
+2024-12-24 22:24:20; Dam 35231 aun no tiene CANAL
+2024-12-24 22:24:38; Dam 23268 aun no tiene CANAL
+2024-12-24 22:24:56; Dam 35152 aun no tiene CANAL
+2024-12-24 22:26:11; Dam 23362 aun no tiene CANAL
+2024-12-24 22:26:28; Dam 23271 aun no tiene CANAL
+2024-12-24 22:26:46; Dam 35146 aun no tiene CANAL
+2024-12-24 22:27:04; Dam 35147 aun no tiene CANAL
+2024-12-24 22:27:21; Dam 23192 aun no tiene CANAL
+2024-12-24 22:27:39; Dam 23191 aun no tiene CANAL
+2024-12-24 22:27:57; Dam 35045 aun no tiene CANAL
+2024-12-24 22:29:01; Dam 23190 aun no tiene CANAL
+2024-12-24 22:29:19; Dam 23361 aun no tiene CANAL
+2024-12-24 22:29:20; 51839 Ya esta registrado en la DB
+2024-12-24 22:30:34; Dam 53557 aun no tiene CANAL
+2024-12-24 22:30:52; Dam 53025 aun no tiene CANAL
+2024-12-24 22:31:10; Dam 23367 aun no tiene CANAL
+2024-12-24 22:32:16; se cerro la pagina de SUNAT con éxito
+2024-12-24 22:32:51; El iturriapp no esta pidiendo cambio de contraseña
+2024-12-24 22:39:53; se encontró el archivo reporte en C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/ExcelconDatos
+2024-12-24 22:40:00; Se envió el correo con éxito
+2024-12-24 22:40:06;  Archivo REPORTE_RCE_ENVIADOS 24-11-2024 al 24-12-2024_20241224_2240.xlsx se ha validado como completado y se
+ha movido a la ruta  C:/BOT-LIQUIDACION/BotUpdateCanal/Recursos/Archivos Procesados
+2024-12-24 22:40:06; Fin del robot  BotUpdateCanal
